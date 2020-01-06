@@ -16,7 +16,8 @@ async def strike(ctx, ctxuser):
     admins = []
     #Admins die online sind zaehlen
     #Abstimmung starten (jeder hat nur eine Stimme)
-    await ctx.send(ctxuser + " striken?") 
+    await ctx.send(ctxuser + " striken?")
+
 
 #Muell
 ###############################
@@ -37,12 +38,12 @@ async def spast(ctx):
 
 @bot.command(pass_context=True)
 async def hodensack(ctx):
-    await ctx.send("HodiModi")    
-###############################  
+    await ctx.send("HodiModi")
+###############################
 
 print ("bot wird gestartet\n")
 
-bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhJvaA.IYhO6i-8yVb3FspTa8HsaOHiYL4")
+bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOW1Q.tq8_ZwYJc8NebpjYMHY9u2e-RI8")
 
 
 
@@ -64,6 +65,3 @@ bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhJvaA.IYhO6i-8yVb3FspTa8HsaOHiYL4")
 #    print(f'{client.user} has connected to Discord!')
 
 #client.run(token)
-
-
-
