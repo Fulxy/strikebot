@@ -19,7 +19,6 @@ async def strike(ctx, ctxuser):
     await ctx.send(ctxuser + " striken?") 
 
 
-
 #Muell
 ###############################
 #Sieg Heil
@@ -40,7 +39,7 @@ async def spast(ctx):
 
 print ("bot wird gestartet\n")
 
-bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhJvaA.IYhO6i-8yVb3FspTa8HsaOHiYL4")
+bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOW1Q.tq8_ZwYJc8NebpjYMHY9u2e-RI8")
 
 
 
