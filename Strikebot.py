@@ -43,7 +43,7 @@ async def hodensack(ctx):
 
 print ("bot wird gestartet\n")
 
-bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOW1Q.tq8_ZwYJc8NebpjYMHY9u2e-RI8")
+bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOdlQ.1q7OyL5jJIeZtPaGWUNWewhuLco")
 
 
 
