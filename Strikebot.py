@@ -39,7 +39,7 @@ async def spast(ctx):
 
 print ("bot wird gestartet\n")
 
-bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOW1Q.tq8_ZwYJc8NebpjYMHY9u2e-RI8")
+bot.run("NjYzNTE4OTQ1MjAyMTQzMjMz.XhOfWQ.Jj2zg8dPoTDD2bOTb7gboKgad6E")
 
 
 
