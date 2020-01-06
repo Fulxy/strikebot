@@ -1,0 +1,2 @@
+# strikebot
+Discord strikebot
