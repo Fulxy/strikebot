@@ -18,8 +18,6 @@ async def strike(ctx, ctxuser):
     #Abstimmung starten (jeder hat nur eine Stimme)
     await ctx.send(ctxuser + " striken?") 
 
-
-
 #Muell
 ###############################
 #Sieg Heil
@@ -35,7 +33,11 @@ async def apache(ctx):
 #Julian der Spast
 @bot.command(pass_context=True)
 async def spast(ctx):
-    await ctx.send("<:spast:662428397703790612>")    
+    await ctx.send("<:spast:662428397703790612>")
+
+@bot.command(pass_context=True)
+async def hodensack(ctx):
+    await ctx.send("HodiModi")    
 ###############################  
 
 print ("bot wird gestartet\n")
